@@ -1,0 +1,2417 @@
+[{
+  "id": "73C2338",
+  "name": "Готовая еда",
+  "advert": null,
+  "products_count": 101,
+  "image_link": "https://photos.okolo.app/category/73C2338-icon-fivedelivery/345x345.png",
+  "gradient_start": "#85E7B8",
+  "gradient_end": "#63B17E",
+  "title_color": "#FFFFFF",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C10301",
+    "name": "Горячие напитки",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C9714",
+    "name": "Блинчики, сырники и каши",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9715",
+    "name": "Сэндвичи и бургеры",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C6771",
+    "name": "Суши и роллы",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9718",
+    "name": "Основные блюда",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C2459",
+    "name": "Супы",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2458",
+    "name": "Салаты",
+    "advert": null,
+    "products_count": 25
+  }, {
+    "id": "73C6802",
+    "name": "Закуски",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C6770",
+    "name": "Напитки",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9719",
+    "name": "Замороженная готовая еда",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C2460",
+    "name": "Тесто и лапша",
+    "advert": null,
+    "products_count": 3
+  }]
+}, {
+  "id": "73C10467",
+  "name": "Горячий кофе с доставкой",
+  "advert": null,
+  "products_count": 7,
+  "image_link": "https://photos.okolo.app/category/73C10467-icon-fivedelivery/345x345.png",
+  "gradient_start": "#FFC573",
+  "gradient_end": "#FF9500",
+  "title_color": "#FFFFFF",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C10468",
+    "name": "Кофе",
+    "advert": null,
+    "products_count": 7
+  }]
+}, {
+  "id": "73C9968",
+  "name": "Наша пекарня",
+  "advert": null,
+  "products_count": 24,
+  "image_link": "https://photos.okolo.app/category/73C9968-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9969",
+    "name": "Сладкая выпечка",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C9970",
+    "name": "Сытная выпечка",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9971",
+    "name": "Хлеб и багеты",
+    "advert": null,
+    "products_count": 7
+  }]
+}, {
+  "id": "73C7288",
+  "name": "Не забудьте купить",
+  "advert": null,
+  "products_count": 194,
+  "image_link": "https://photos.okolo.app/category/73C7288-icon-fivedelivery_5d084817e50551c93f568cc6ae9e8813/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": "",
+  "description_md": "",
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C7289",
+    "name": "Шоколад и батончики",
+    "advert": null,
+    "products_count": 47
+  }, {
+    "id": "73C7442",
+    "name": "Напитки",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C7292",
+    "name": "Драже",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C7290",
+    "name": "Злаковые и протеиновые батончики",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C7293",
+    "name": "Мармелад и карамель",
+    "advert": null,
+    "products_count": 23
+  }, {
+    "id": "73C7294",
+    "name": "Жевательная резинка и леденцы",
+    "advert": null,
+    "products_count": 40
+  }, {
+    "id": "73C7295",
+    "name": "Кофе 3 в 1",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C7441",
+    "name": "Детские снеки и питание",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C7291",
+    "name": "Жевательные конфеты и ирис",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9712",
+    "name": "Гигиеническая помада",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C7298",
+    "name": "Бритвенные станки и кассеты",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C7296",
+    "name": "Батарейки и лампочки",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9713",
+    "name": "Клей",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C7299",
+    "name": "Презервативы и гели",
+    "advert": null,
+    "products_count": 7
+  }]
+}, {
+  "id": "73C2327",
+  "name": "Хлеб и выпечка",
+  "advert": null,
+  "products_count": 143,
+  "image_link": "https://photos.okolo.app/category/73C2327-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C10432",
+    "name": "Белый хлеб",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C10433",
+    "name": "Ржаной хлеб",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C10434",
+    "name": "Зерновой хлеб",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C10579",
+    "name": "Прочий хлеб",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9737",
+    "name": "Лаваш, лепешки",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C10349",
+    "name": "Булочки для гамбургеров и хот-догов",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C6917",
+    "name": "Пироги, пирожки, выпечка, бисквиты",
+    "advert": null,
+    "products_count": 36
+  }, {
+    "id": "73C9738",
+    "name": "Соломка, крекеры, хлебные палочки",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C9739",
+    "name": "Хлебцы",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C2380",
+    "name": "Наша пекарня",
+    "advert": null,
+    "products_count": 25
+  }, {
+    "id": "73C9740",
+    "name": "Сушки, баранки, бублики",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9741",
+    "name": "Сухари",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9742",
+    "name": "Тарталетки",
+    "advert": null,
+    "products_count": 2
+  }]
+}, {
+  "id": "73C10314",
+  "name": "Фрукты, ягоды и орехи",
+  "advert": null,
+  "products_count": 115,
+  "image_link": "https://photos.okolo.app/category/73C10314-icon-fivedelivery_2ae78bec4501fbb904ad852261532428/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C11970",
+    "name": "Самый сезон",
+    "advert": null,
+    "products_count": 32
+  }, {
+    "id": "73C10318",
+    "name": "Бананы",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10319",
+    "name": "Виноград",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C10320",
+    "name": "Яблоки",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C10321",
+    "name": "Сливы, персики, абрикосы",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10322",
+    "name": "Цитрусы",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C10323",
+    "name": "Груши и айва",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C10324",
+    "name": "Экзотические фрукты",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C10325",
+    "name": "Ягоды",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10326",
+    "name": "Арбузы и дыни",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10327",
+    "name": "Орехи",
+    "advert": null,
+    "products_count": 25
+  }, {
+    "id": "73C10328",
+    "name": "Сухофрукты",
+    "advert": null,
+    "products_count": 23
+  }, {
+    "id": "73C10329",
+    "name": "Семечки",
+    "advert": null,
+    "products_count": 27
+  }, {
+    "id": "73C10330",
+    "name": "Авокадо",
+    "advert": null,
+    "products_count": 2
+  }]
+}, {
+  "id": "73C10315",
+  "name": "Овощи и зелень",
+  "advert": null,
+  "products_count": 91,
+  "image_link": "https://photos.okolo.app/category/73C10315-icon-fivedelivery_d5cfa1cbe46d920a05f228169cf3eed8/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C11969",
+    "name": "Самый сезон",
+    "advert": null,
+    "products_count": 12
+  }, {
+    "id": "73C10331",
+    "name": "Помидоры",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C10332",
+    "name": "Огурцы",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C10333",
+    "name": "Картофель",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C10334",
+    "name": "Капуста",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10335",
+    "name": "Лук, чеснок",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C10336",
+    "name": "Перец",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10337",
+    "name": "Морковь, свекла, редька, редис",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C10338",
+    "name": "Кабачки, баклажаны, тыквы",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C10348",
+    "name": "Имбирь",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C10339",
+    "name": "Авокадо",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10341",
+    "name": "Зелень",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C10342",
+    "name": "Салаты зеленые",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C10343",
+    "name": "Обработанные овощи",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C10345",
+    "name": "Грибы",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C10346",
+    "name": "Соленья",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C10347",
+    "name": "Овощные соусы",
+    "advert": null,
+    "products_count": 1
+  }]
+}, {
+  "id": "73C2339",
+  "name": "Сладости",
+  "advert": null,
+  "products_count": 650,
+  "image_link": "https://photos.okolo.app/category/73C2339-icon-fivedelivery_be40f9f5ce3d61e5a9f02cfa756c0342/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C11757",
+    "name": "Качество и выгода от Пятёрочки",
+    "advert": null,
+    "products_count": 41
+  }, {
+    "id": "73C2463",
+    "name": "Шоколадные плитки",
+    "advert": null,
+    "products_count": 77
+  }, {
+    "id": "73C9746",
+    "name": "Шоколадные и вафельные батончики",
+    "advert": null,
+    "products_count": 40
+  }, {
+    "id": "73C10790",
+    "name": "Конфеты в коробках",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9749",
+    "name": "Конфеты весовые",
+    "advert": null,
+    "products_count": 71
+  }, {
+    "id": "73C2472",
+    "name": "Конфеты в упаковках",
+    "advert": null,
+    "products_count": 32
+  }, {
+    "id": "73C9747",
+    "name": "Шоколадные яйца и фигурки",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9748",
+    "name": "Жевательные конфеты и драже",
+    "advert": null,
+    "products_count": 21
+  }, {
+    "id": "73C12413",
+    "name": "Карамель, леденцы",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C2473",
+    "name": "Шоколадные и арахисовые пасты",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C2467",
+    "name": "Печенье, крекеры",
+    "advert": null,
+    "products_count": 54
+  }, {
+    "id": "73C11798",
+    "name": "Торты и пирожные",
+    "advert": null,
+    "products_count": 39
+  }, {
+    "id": "73C9745",
+    "name": "Мороженое",
+    "advert": null,
+    "products_count": 64
+  }, {
+    "id": "73C9750",
+    "name": "Кексы, круассаны, рулеты",
+    "advert": null,
+    "products_count": 23
+  }, {
+    "id": "73C2470",
+    "name": "Зефир, мармелад, пастила",
+    "advert": null,
+    "products_count": 40
+  }, {
+    "id": "73C9755",
+    "name": "Вафли и вафельные торты",
+    "advert": null,
+    "products_count": 42
+  }, {
+    "id": "73C2469",
+    "name": "Жевательная резинка",
+    "advert": null,
+    "products_count": 39
+  }, {
+    "id": "73C9751",
+    "name": "Диетические сладости",
+    "advert": null,
+    "products_count": 31
+  }, {
+    "id": "73C9752",
+    "name": "Варенье, джем, мед",
+    "advert": null,
+    "products_count": 25
+  }, {
+    "id": "73C9753",
+    "name": "Пряники",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C2468",
+    "name": "Восточные сладости, халва",
+    "advert": null,
+    "products_count": 14
+  }]
+}, {
+  "id": "73C2335",
+  "name": "Замороженные продукты",
+  "advert": null,
+  "products_count": 236,
+  "image_link": "https://photos.okolo.app/category/73C2335-icon-fivedelivery_564cce798d122e2f3149e22327025ae0/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9775",
+    "name": "Лёд для напитков",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C2438",
+    "name": "Мороженое",
+    "advert": null,
+    "products_count": 66
+  }, {
+    "id": "73C2432",
+    "name": "Полуфабрикаты и блюда замороженные",
+    "advert": null,
+    "products_count": 60
+  }, {
+    "id": "73C2436",
+    "name": "Пельмени и хинкали",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C9776",
+    "name": "Вареники",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2439",
+    "name": "Рыба замороженная",
+    "advert": null,
+    "products_count": 20
+  }, {
+    "id": "73C2430",
+    "name": "Овощи и грибы замороженные",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C9777",
+    "name": "Сырники и блины",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C9778",
+    "name": "Тесто замороженное",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2431",
+    "name": "Ягоды замороженные",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C2435",
+    "name": "Морепродукты замороженные",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C2433",
+    "name": "Мясо замороженное",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C2434",
+    "name": "Птица замороженная",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C2437",
+    "name": "Фарш замороженный",
+    "advert": null,
+    "products_count": 1
+  }]
+}, {
+  "id": "73C7215",
+  "name": "Торты и пирожные",
+  "advert": null,
+  "products_count": 61,
+  "image_link": "https://photos.okolo.app/category/73C7215-icon-fivedelivery_d7f71d8febeb5b0c17072e3ce57a543f/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C7216",
+    "name": "Торты",
+    "advert": null,
+    "products_count": 23
+  }, {
+    "id": "73C7217",
+    "name": "Пирожные",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C9744",
+    "name": "Всё для праздников",
+    "advert": null,
+    "products_count": 20
+  }]
+}, {
+  "id": "73C2336",
+  "name": "Молочные продукты и яйцо",
+  "advert": null,
+  "products_count": 450,
+  "image_link": "https://photos.okolo.app/category/73C2336-icon-fivedelivery_93fa48aa70c1a5cd697d0e13966a5c1c/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C11797",
+    "name": "Качество и выгода от Пятёрочки",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C2444",
+    "name": "Молоко",
+    "advert": null,
+    "products_count": 35
+  }, {
+    "id": "73C2441",
+    "name": "Сметана",
+    "advert": null,
+    "products_count": 28
+  }, {
+    "id": "73C2449",
+    "name": "Яйцо",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C10628",
+    "name": "Творог",
+    "advert": null,
+    "products_count": 49
+  }, {
+    "id": "73C2447",
+    "name": "Сливки",
+    "advert": null,
+    "products_count": 17
+  }, {
+    "id": "73C10436",
+    "name": "Кефир",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C7338",
+    "name": "Майонез",
+    "advert": null,
+    "products_count": 30
+  }, {
+    "id": "73C2440",
+    "name": "Йогурты и десерты",
+    "advert": null,
+    "products_count": 101
+  }, {
+    "id": "73C9756",
+    "name": "Питьевые йогурты",
+    "advert": null,
+    "products_count": 32
+  }, {
+    "id": "73C2443",
+    "name": "Сливочное масло и маргарин",
+    "advert": null,
+    "products_count": 17
+  }, {
+    "id": "73C9757",
+    "name": "Сырки и молочные снеки",
+    "advert": null,
+    "products_count": 36
+  }, {
+    "id": "73C2445",
+    "name": "Молочные коктейли",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C7334",
+    "name": "Растительные аналоги",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9759",
+    "name": "Творожная масса",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C2442",
+    "name": "Кисломолочные продукты",
+    "advert": null,
+    "products_count": 36
+  }, {
+    "id": "73C2446",
+    "name": "Сгущенное молоко",
+    "advert": null,
+    "products_count": 7
+  }]
+}, {
+  "id": "73C9727",
+  "name": "Сыры",
+  "advert": null,
+  "products_count": 113,
+  "image_link": "https://photos.okolo.app/category/73C9727-icon-fivedelivery_6997362a1f6c2e12e2d69a43ad866517/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9728",
+    "name": "Сырная нарезка",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C9729",
+    "name": "Твердые сыры",
+    "advert": null,
+    "products_count": 38
+  }, {
+    "id": "73C9730",
+    "name": "Мягкие сыры",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9731",
+    "name": "Рассольные сыры",
+    "advert": null,
+    "products_count": 19
+  }, {
+    "id": "73C9732",
+    "name": "Плавленые сыры",
+    "advert": null,
+    "products_count": 22
+  }, {
+    "id": "73C9733",
+    "name": "Творожные сыры",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C9734",
+    "name": "Сыры с плесенью",
+    "advert": null,
+    "products_count": 5
+  }]
+}, {
+  "id": "73C2333",
+  "name": "Мясо и птица",
+  "advert": null,
+  "products_count": 73,
+  "image_link": "https://photos.okolo.app/category/73C2333-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C2424",
+    "name": "Птица",
+    "advert": null,
+    "products_count": 29
+  }, {
+    "id": "73C2421",
+    "name": "Говядина и телятина",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C2422",
+    "name": "Свинина",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C6614",
+    "name": "Полуфабрикаты",
+    "advert": null,
+    "products_count": 25
+  }, {
+    "id": "73C2423",
+    "name": "Фарш",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9763",
+    "name": "Субпродукты",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9764",
+    "name": "Замороженное мясо",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9765",
+    "name": "Замороженная птица",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9768",
+    "name": "Халяль",
+    "advert": null,
+    "products_count": 1
+  }]
+}, {
+  "id": "73C9769",
+  "name": "Колбаса и сосиски",
+  "advert": null,
+  "products_count": 155,
+  "image_link": "https://photos.okolo.app/category/73C9769-icon-fivedelivery_9f6a45365c8a9ecaab2ae63b2f909361/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9773",
+    "name": "Колбаса и деликатесы в нарезке",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C9770",
+    "name": "Колбаса",
+    "advert": null,
+    "products_count": 64
+  }, {
+    "id": "73C14432",
+    "name": "Ветчина",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C9771",
+    "name": "Сосиски, сардельки, шпикачки",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C9772",
+    "name": "Деликатесы, копчености",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C9774",
+    "name": "Паштет, холодец",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C13740",
+    "name": "Халяль",
+    "advert": null,
+    "products_count": 3
+  }]
+}, {
+  "id": "73C9786",
+  "name": "Здоровый выбор",
+  "advert": null,
+  "products_count": 134,
+  "image_link": "https://photos.okolo.app/category/73C9786-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9787",
+    "name": "Растительные напитки",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9789",
+    "name": "Бездрожжевые, зерновые хлеба",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9790",
+    "name": "Протеиновые батончики и печенье",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C9791",
+    "name": "Полезные сладости",
+    "advert": null,
+    "products_count": 20
+  }, {
+    "id": "73C9792",
+    "name": "Напитки с пользой",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9793",
+    "name": "Клетчатка, отруби, семена",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9794",
+    "name": "Орехи, сухофрукты, смеси",
+    "advert": null,
+    "products_count": 34
+  }, {
+    "id": "73C9795",
+    "name": "Злаковые и фруктовые батончики",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9796",
+    "name": "Заменители сахара",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9797",
+    "name": "Хлебцы",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9788",
+    "name": "Без лактозы",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9799",
+    "name": "Много белка",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9800",
+    "name": "Питание для спортсменов",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C9801",
+    "name": "На завтрак",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C10312",
+    "name": "Диабетическое питание",
+    "advert": null,
+    "products_count": 2
+  }]
+}, {
+  "id": "73C14811",
+  "name": "Вкус & Польза",
+  "advert": null,
+  "products_count": 46,
+  "image_link": "https://photos.okolo.app/category/73C14811-icon-fivedelivery_a9d46592bb6f7b4cc5d23f9382265449/345x345.png",
+  "gradient_start": "#C6E295",
+  "gradient_end": "#82BC20",
+  "title_color": "#FFFFFF",
+  "description": "На этой странице мы собрали вкусные и полезные продукты от бренда Пятёрочки – «Вкус & Польза».\n\nНаши продукты богаты витаминами, минералами и другими питательными веществами. Они учитывают разные потребности в питании и подходят для тех, кто придерживается здорового образа жизни.\n\nМы позаботились о том, чтобы разнообразие вкусов и польза встретились в каждой упаковке. Наслаждайтесь знакомыми продуктами с чистым составом без искусственных красителей, консервантов и вредных добавок.",
+  "description_md": "На этой странице мы собрали вкусные и полезные продукты от бренда Пятёрочки – «Вкус & Польза».\n\nНаши продукты богаты витаминами, минералами и другими питательными веществами. Они учитывают разные потребности в питании и подходят для тех, кто придерживается здорового образа жизни.\n\nМы позаботились о том, чтобы разнообразие вкусов и польза встретились в каждой упаковке. Наслаждайтесь знакомыми продуктами с чистым составом без искусственных красителей, консервантов и вредных добавок.",
+  "description_html": "<p>На этой странице мы собрали вкусные и полезные продукты от бренда Пятёрочки – «Вкус &amp; Польза».</p>\r\n<p>Наши продукты богаты витаминами, минералами и другими питательными веществами. Они учитывают разные потребности в питании и подходят для тех, кто придерживается здорового образа жизни.</p>\r\n<p>Мы позаботились о том, чтобы разнообразие вкусов и польза встретились в каждой упаковке. Наслаждайтесь знакомыми продуктами с чистым составом без искусственных красителей, консервантов и вредных добавок.</p>",
+  "subcategories": [{
+    "id": "73C14812",
+    "name": "Мясной гастроном",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C14813",
+    "name": "Кисломолочные продукты",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C14814",
+    "name": "Сыр",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C14815",
+    "name": "Творог",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C14816",
+    "name": "Сырники и запеканки",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C14817",
+    "name": "Яйцо, масло",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C14818",
+    "name": "Десерты",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C14819",
+    "name": "Напитки",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C14824",
+    "name": "Бакалея",
+    "advert": null,
+    "products_count": 6
+  }]
+}, {
+  "id": "73C2334",
+  "name": "Рыба и морепродукты",
+  "advert": null,
+  "products_count": 174,
+  "image_link": "https://photos.okolo.app/category/73C2334-icon-fivedelivery_69556b589850db4401d400c7da2e5e80/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9779",
+    "name": "Замороженная рыба и морепродукты",
+    "advert": null,
+    "products_count": 33
+  }, {
+    "id": "73C9780",
+    "name": "Соленая рыба",
+    "advert": null,
+    "products_count": 33
+  }, {
+    "id": "73C9781",
+    "name": "Консервы из рыбы и морепродуктов",
+    "advert": null,
+    "products_count": 46
+  }, {
+    "id": "73C2427",
+    "name": "Крабовое мясо и палочки",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C2426",
+    "name": "Икра",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C9782",
+    "name": "Рыбные закуски",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9783",
+    "name": "Копченая рыба",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9784",
+    "name": "Сушеная и вяленая рыба",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C2428",
+    "name": "Морепродукты",
+    "advert": null,
+    "products_count": 19
+  }]
+}, {
+  "id": "73C9802",
+  "name": "Снеки",
+  "advert": null,
+  "products_count": 165,
+  "image_link": "https://photos.okolo.app/category/73C9802-icon-fivedelivery_4f38a956734fc4e2d10035cee00fe443/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9803",
+    "name": "Чипсы",
+    "advert": null,
+    "products_count": 42
+  }, {
+    "id": "73C9804",
+    "name": "Семечки",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C9805",
+    "name": "Орехи и сухофрукты",
+    "advert": null,
+    "products_count": 35
+  }, {
+    "id": "73C9806",
+    "name": "Сухарики и гренки",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C9807",
+    "name": "Соломка, крекеры, хлебные палочки",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C9808",
+    "name": "Попкорн и кукурузные палочки",
+    "advert": null,
+    "products_count": 12
+  }, {
+    "id": "73C9809",
+    "name": "Рыба сушеная и вяленая",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9810",
+    "name": "Мясные снеки",
+    "advert": null,
+    "products_count": 5
+  }]
+}, {
+  "id": "73C9811",
+  "name": "Макароны и крупы",
+  "advert": null,
+  "products_count": 246,
+  "image_link": "https://photos.okolo.app/category/73C9811-icon-fivedelivery_97329dc1cc577471404126d7d6d75454/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9812",
+    "name": "Рис",
+    "advert": null,
+    "products_count": 25
+  }, {
+    "id": "73C9813",
+    "name": "Гречка",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9814",
+    "name": "Бобовые",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C9815",
+    "name": "Хлопья зерновые",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9816",
+    "name": "Сухие завтраки и мюсли",
+    "advert": null,
+    "products_count": 39
+  }, {
+    "id": "73C9817",
+    "name": "Прочие крупы",
+    "advert": null,
+    "products_count": 32
+  }, {
+    "id": "73C9818",
+    "name": "Макароны",
+    "advert": null,
+    "products_count": 64
+  }, {
+    "id": "73C9964",
+    "name": "Продукты быстрого приготовления",
+    "advert": null,
+    "products_count": 65
+  }]
+}, {
+  "id": "73C9820",
+  "name": "Всё для выпечки",
+  "advert": null,
+  "products_count": 76,
+  "image_link": "https://photos.okolo.app/category/73C9820-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9821",
+    "name": "Мука",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C9822",
+    "name": "Дрожжи",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9823",
+    "name": "Компоненты для выпечки",
+    "advert": null,
+    "products_count": 19
+  }, {
+    "id": "73C9824",
+    "name": "Сахар и сахарозаменители",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9825",
+    "name": "Соль",
+    "advert": null,
+    "products_count": 12
+  }, {
+    "id": "73C9826",
+    "name": "Смесь для выпечки",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9827",
+    "name": "Яйцо",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9828",
+    "name": "Сухое молоко и сливки",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9829",
+    "name": "Тесто",
+    "advert": null,
+    "products_count": 2
+  }]
+}, {
+  "id": "73C9831",
+  "name": "Соусы и заправки",
+  "advert": null,
+  "products_count": 107,
+  "image_link": "https://photos.okolo.app/category/73C9831-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9832",
+    "name": "Майонез и майонезные соусы",
+    "advert": null,
+    "products_count": 34
+  }, {
+    "id": "73C9834",
+    "name": "Кетчуп, томатная паста и томатные соусы",
+    "advert": null,
+    "products_count": 36
+  }, {
+    "id": "73C9835",
+    "name": "Этнические соусы",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9836",
+    "name": "Горчица, аджика, хрен",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9972",
+    "name": "Прочие соусы",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9833",
+    "name": "Десертные соусы и сиропы",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9837",
+    "name": "Уксус",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9838",
+    "name": "Соусы для приготовления блюд",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9839",
+    "name": "Бальзамические соусы",
+    "advert": null,
+    "products_count": 1
+  }]
+}, {
+  "id": "73C9841",
+  "name": "Масло и специи",
+  "advert": null,
+  "products_count": 144,
+  "image_link": "https://photos.okolo.app/category/73C9841-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9842",
+    "name": "Специи и приправы",
+    "advert": null,
+    "products_count": 68
+  }, {
+    "id": "73C9843",
+    "name": "Смеси для вторых блюд",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C9844",
+    "name": "Прочие добавки",
+    "advert": null,
+    "products_count": 20
+  }, {
+    "id": "73C9894",
+    "name": "Соль",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9845",
+    "name": "Специи для напитков",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9846",
+    "name": "Подсолнечное масло",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C9847",
+    "name": "Оливковое масло",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C9848",
+    "name": "Кукурузное масло",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9849",
+    "name": "Прочее масло",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9850",
+    "name": "Столовый и бальзамический уксус",
+    "advert": null,
+    "products_count": 6
+  }]
+}, {
+  "id": "73C2326",
+  "name": "Кофе, какао, чай",
+  "advert": null,
+  "products_count": 281,
+  "image_link": "https://photos.okolo.app/category/73C2326-icon-fivedelivery_b985feb803b1e4546f3681a4f493f2c5/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9851",
+    "name": "Растворимый кофе",
+    "advert": null,
+    "products_count": 67
+  }, {
+    "id": "73C9852",
+    "name": "Кофе молотый и в дрип-пакетах",
+    "advert": null,
+    "products_count": 19
+  }, {
+    "id": "73C9853",
+    "name": "Кофе в зёрнах",
+    "advert": null,
+    "products_count": 22
+  }, {
+    "id": "73C9854",
+    "name": "Кофе в капсулах",
+    "advert": null,
+    "products_count": 12
+  }, {
+    "id": "73C2377",
+    "name": "Чёрный чай",
+    "advert": null,
+    "products_count": 85
+  }, {
+    "id": "73C9855",
+    "name": "Зелёный чай",
+    "advert": null,
+    "products_count": 19
+  }, {
+    "id": "73C9856",
+    "name": "Травяной чай",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9857",
+    "name": "Чай ассорти",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9858",
+    "name": "Фруктовый чай",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C2374",
+    "name": "Какао и горячий шоколад",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9862",
+    "name": "Шиповник и кисель",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9863",
+    "name": "Детский чай",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9973",
+    "name": "Цикорий",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C2376",
+    "name": "Сахар и сахарозаменители",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C9860",
+    "name": "Сухие сливки и молоко",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9864",
+    "name": "Специи для напитков",
+    "advert": null,
+    "products_count": 6
+  }]
+}, {
+  "id": "73C2324",
+  "name": "Консервы и соленья",
+  "advert": null,
+  "products_count": 215,
+  "image_link": "https://photos.okolo.app/category/73C2324-icon-fivedelivery_0364c1d2281e5147d317473867068758/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C11756",
+    "name": "Качество и выгода от Пятёрочки",
+    "advert": null,
+    "products_count": 76
+  }, {
+    "id": "73C2360",
+    "name": "Консервы из овощей, грибов и бобовых",
+    "advert": null,
+    "products_count": 104
+  }, {
+    "id": "73C9865",
+    "name": "Консервы из рыбы и морепродуктов",
+    "advert": null,
+    "products_count": 47
+  }, {
+    "id": "73C9866",
+    "name": "Мясные консервы",
+    "advert": null,
+    "products_count": 46
+  }, {
+    "id": "73C9867",
+    "name": "Соленья и протертая ягода",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9868",
+    "name": "Консервы из фруктов и ягод",
+    "advert": null,
+    "products_count": 7
+  }]
+}, {
+  "id": "73C2330",
+  "name": "Вода и напитки",
+  "advert": null,
+  "products_count": 401,
+  "image_link": "https://photos.okolo.app/category/73C2330-icon-fivedelivery_e6790f786c1216c1d3d2dc366e2b7c45/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": "",
+  "description_md": "",
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C10302",
+    "name": "Горячие напитки",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C2387",
+    "name": "Вода",
+    "advert": null,
+    "products_count": 84
+  }, {
+    "id": "73C2394",
+    "name": "Соки, нектары и смузи",
+    "advert": null,
+    "products_count": 132
+  }, {
+    "id": "73C10435",
+    "name": "Кола",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C2389",
+    "name": "Газировка и сладкие напитки",
+    "advert": null,
+    "products_count": 106
+  }, {
+    "id": "73C9869",
+    "name": "Лёд для напитков",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C2388",
+    "name": "Квас",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2392",
+    "name": "Энергетики",
+    "advert": null,
+    "products_count": 44
+  }, {
+    "id": "73C2390",
+    "name": "Холодный чай",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C2393",
+    "name": "Безалкогольное пиво и вино",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9871",
+    "name": "Морсы, узвары и компоты",
+    "advert": null,
+    "products_count": 3
+  }]
+}, {
+  "id": "73C2328",
+  "name": "Детское питание",
+  "advert": null,
+  "products_count": 245,
+  "image_link": "https://photos.okolo.app/category/73C2328-icon-fivedelivery_35ab510079fe9c50de27145fd4fe2dcb/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9873",
+    "name": "Пюре фруктовые",
+    "advert": null,
+    "products_count": 39
+  }, {
+    "id": "73C9874",
+    "name": "Пюре овощные и мясные",
+    "advert": null,
+    "products_count": 31
+  }, {
+    "id": "73C7388",
+    "name": "Йогурты и творожки",
+    "advert": null,
+    "products_count": 38
+  }, {
+    "id": "73C7390",
+    "name": "Молоко и кефир",
+    "advert": null,
+    "products_count": 22
+  }, {
+    "id": "73C9875",
+    "name": "Каши",
+    "advert": null,
+    "products_count": 28
+  }, {
+    "id": "73C7391",
+    "name": "Молочные смеси",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9876",
+    "name": "Сок детский",
+    "advert": null,
+    "products_count": 37
+  }, {
+    "id": "73C7393",
+    "name": "Вода питьевая детская",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C9877",
+    "name": "Снеки и печенье",
+    "advert": null,
+    "products_count": 29
+  }, {
+    "id": "73C9878",
+    "name": "Чай детский",
+    "advert": null,
+    "products_count": 2
+  }]
+}, {
+  "id": "73C9879",
+  "name": "Детские товары",
+  "advert": null,
+  "products_count": 272,
+  "image_link": "https://photos.okolo.app/category/73C9879-icon-fivedelivery_1431c611bbe99918f0fa886a87457a55/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C13912",
+    "name": "Выгодно",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9880",
+    "name": "Подгузники и салфетки",
+    "advert": null,
+    "products_count": 39
+  }, {
+    "id": "73C9881",
+    "name": "Гигиена и уход",
+    "advert": null,
+    "products_count": 37
+  }, {
+    "id": "73C9882",
+    "name": "Игрушки и игры",
+    "advert": null,
+    "products_count": 132
+  }, {
+    "id": "73C9883",
+    "name": "Бытовая химия",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9884",
+    "name": "Школа",
+    "advert": null,
+    "products_count": 61
+  }, {
+    "id": "73C9885",
+    "name": "Для новорожденных",
+    "advert": null,
+    "products_count": 14
+  }]
+}, {
+  "id": "73C12086",
+  "name": "Детский клуб",
+  "advert": null,
+  "products_count": 142,
+  "image_link": "https://photos.okolo.app/category/73C12086-icon-fivedelivery_1f663eeb9876cbe55f26b695e4b9238e/345x345.png",
+  "gradient_start": "#5274B5",
+  "gradient_end": "#658FDF",
+  "title_color": "#FFFFFF",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C12088",
+    "name": "Детский творог",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C12089",
+    "name": "Кисломолочные напитки, йогурты",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C12087",
+    "name": "Молоко и коктейли",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C12090",
+    "name": "Фруктовые и овощные пюре",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C12091",
+    "name": "Мясные и мясорастительные пюре",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C12092",
+    "name": "Детские снеки",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C12094",
+    "name": "Соки и напитки",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C12095",
+    "name": "Детская вода",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C12093",
+    "name": "Готовые кашки и крупы",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C12111",
+    "name": "Сладкий перекус",
+    "advert": null,
+    "products_count": 23
+  }, {
+    "id": "73C12113",
+    "name": "Подгузники, пелёнки, салфетки",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C12114",
+    "name": "Средства для купания, мыло и кремы",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C16604",
+    "name": "Детские зубные пасты",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C16606",
+    "name": "Детские зубные щетки",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C12115",
+    "name": "Прочие товары для детей",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C15537",
+    "name": "Прокладки и тампоны",
+    "advert": null,
+    "products_count": 13
+  }]
+}, {
+  "id": "73C9888",
+  "name": "Бумага и салфетки",
+  "advert": null,
+  "products_count": 58,
+  "image_link": "https://photos.okolo.app/category/73C9888-icon-fivedelivery_3e9f81cc6f42cc72c82031cd3790be67/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9889",
+    "name": "Туалетная бумага",
+    "advert": null,
+    "products_count": 28
+  }, {
+    "id": "73C9890",
+    "name": "Бумажные платочки",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9892",
+    "name": "Салфетки",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9893",
+    "name": "Влажные салфетки",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9992",
+    "name": "Бумажные полотенца",
+    "advert": null,
+    "products_count": 9
+  }]
+}, {
+  "id": "73C2331",
+  "name": "Красота и гигиена",
+  "advert": null,
+  "products_count": 509,
+  "image_link": "https://photos.okolo.app/category/73C2331-icon-fivedelivery_37020faf6f53b85d84edaca97f9fceff/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C14644",
+    "name": "Рекомендуем",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2400",
+    "name": "Для волос",
+    "advert": null,
+    "products_count": 111
+  }, {
+    "id": "73C9895",
+    "name": "Прокладки и тампоны",
+    "advert": null,
+    "products_count": 50
+  }, {
+    "id": "73C2396",
+    "name": "Уход за полостью рта",
+    "advert": null,
+    "products_count": 59
+  }, {
+    "id": "73C9896",
+    "name": "Бумажные платочки и салфетки",
+    "advert": null,
+    "products_count": 20
+  }, {
+    "id": "73C9900",
+    "name": "Бумажные полотенца",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9901",
+    "name": "Влажные салфетки",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9897",
+    "name": "Для тела",
+    "advert": null,
+    "products_count": 57
+  }, {
+    "id": "73C9898",
+    "name": "Мыло",
+    "advert": null,
+    "products_count": 24
+  }, {
+    "id": "73C9899",
+    "name": "Для бритья",
+    "advert": null,
+    "products_count": 35
+  }, {
+    "id": "73C9902",
+    "name": "Для ванны и душа",
+    "advert": null,
+    "products_count": 36
+  }, {
+    "id": "73C9903",
+    "name": "Для лица",
+    "advert": null,
+    "products_count": 56
+  }, {
+    "id": "73C9906",
+    "name": "Подарочные наборы",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9904",
+    "name": "Первая помощь и контрацепция",
+    "advert": null,
+    "products_count": 14
+  }, {
+    "id": "73C9905",
+    "name": "Ватные диски и палочки",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C10000",
+    "name": "Туалетная бумага",
+    "advert": null,
+    "products_count": 27
+  }, {
+    "id": "73C12580",
+    "name": "Пеленки и подгузники для взрослых",
+    "advert": null,
+    "products_count": 6
+  }]
+}, {
+  "id": "73C9907",
+  "name": "Л'Этуаль в Пятёрочке",
+  "advert": null,
+  "products_count": 4,
+  "image_link": "https://photos.okolo.app/category/73C9907-icon-fivedelivery_055f632f1fcfff5bac29dfd21ab426b4/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9910",
+    "name": "Для тела",
+    "advert": null,
+    "products_count": 4
+  }]
+}, {
+  "id": "73C2329",
+  "name": "Для животных",
+  "advert": null,
+  "products_count": 180,
+  "image_link": "https://photos.okolo.app/category/73C2329-icon-fivedelivery_13d63f41995ee18748ca9fc0c8fd439d/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C7303",
+    "name": "Влажный корм для кошек",
+    "advert": null,
+    "products_count": 89
+  }, {
+    "id": "73C7305",
+    "name": "Сухой корм для кошек",
+    "advert": null,
+    "products_count": 26
+  }, {
+    "id": "73C7307",
+    "name": "Товары для кошек",
+    "advert": null,
+    "products_count": 15
+  }, {
+    "id": "73C7309",
+    "name": "Лакомства для кошек",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C7302",
+    "name": "Влажный корм для собак",
+    "advert": null,
+    "products_count": 19
+  }, {
+    "id": "73C7304",
+    "name": "Сухой корм для собак",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C7308",
+    "name": "Лакомства для собак",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C7306",
+    "name": "Товары для собак",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C7310",
+    "name": "Витамины и добавки",
+    "advert": null,
+    "products_count": 1
+  }]
+}, {
+  "id": "73C10843",
+  "name": "Пушистый клуб",
+  "advert": null,
+  "products_count": 128,
+  "image_link": "https://photos.okolo.app/category/73C10843-icon-fivedelivery_de2a3ff5d0d7e824ed91b6375dd0876c/345x345.png",
+  "gradient_start": "#E98A8A",
+  "gradient_end": "#A53434",
+  "title_color": "#FFFFFF",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C10844",
+    "name": "Влажный корм для кошек",
+    "advert": null,
+    "products_count": 72
+  }, {
+    "id": "73C10845",
+    "name": "Сухой корм для кошек",
+    "advert": null,
+    "products_count": 27
+  }, {
+    "id": "73C10846",
+    "name": "Сухой корм для собак",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C10847",
+    "name": "Влажный корм для собак",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C10848",
+    "name": "Корм для котят",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C10849",
+    "name": "Корм для стерилизованных кошек",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C10850",
+    "name": "Корм для собак мелких пород",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C10851",
+    "name": "Наполнитель для кошачьего туалета",
+    "advert": null,
+    "products_count": 2
+  }]
+}, {
+  "id": "73C9913",
+  "name": "Стирка и уборка",
+  "advert": null,
+  "products_count": 231,
+  "image_link": "https://photos.okolo.app/category/73C9913-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9914",
+    "name": "Стиральные порошки",
+    "advert": null,
+    "products_count": 33
+  }, {
+    "id": "73C9915",
+    "name": "Гели и капсулы для стирки",
+    "advert": null,
+    "products_count": 27
+  }, {
+    "id": "73C9916",
+    "name": "Чистящие средства для ванной и туалета",
+    "advert": null,
+    "products_count": 37
+  }, {
+    "id": "73C9920",
+    "name": "Кондиционеры для белья",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C9921",
+    "name": "Отбеливатели и пятновыводители",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C9917",
+    "name": "Гигиенические блоки для унитаза",
+    "advert": null,
+    "products_count": 7
+  }, {
+    "id": "73C9918",
+    "name": "Для мытья посуды",
+    "advert": null,
+    "products_count": 24
+  }, {
+    "id": "73C9923",
+    "name": "Гели и порошки универсальные",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C9919",
+    "name": "Для стирки детских вещей",
+    "advert": null,
+    "products_count": 10
+  }, {
+    "id": "73C9922",
+    "name": "Уход за одеждой и обувью",
+    "advert": null,
+    "products_count": 12
+  }, {
+    "id": "73C9924",
+    "name": "Освежители воздуха",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C9925",
+    "name": "Чистящие средства для мебели и ковров",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9926",
+    "name": "Для ухода за плитой и духовкой",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9927",
+    "name": "Для зеркал и стеклянных поверхностей",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9928",
+    "name": "Мыло хозяйственное",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9929",
+    "name": "Для ухода за стиральной машиной",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C9930",
+    "name": "Аксессуары для стирки",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9931",
+    "name": "Мешки для мусора",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C9932",
+    "name": "Инвентарь для уборки",
+    "advert": null,
+    "products_count": 24
+  }]
+}, {
+  "id": "73C9993",
+  "name": "Одежда",
+  "advert": null,
+  "products_count": 47,
+  "image_link": "https://photos.okolo.app/category/73C9993-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9994",
+    "name": "Колготки",
+    "advert": null,
+    "products_count": 39
+  }, {
+    "id": "73C9995",
+    "name": "Носки",
+    "advert": null,
+    "products_count": 8
+  }]
+}, {
+  "id": "73C2332",
+  "name": "Для дома и дачи",
+  "advert": null,
+  "products_count": 309,
+  "image_link": "https://photos.okolo.app/category/73C2332-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": "Товары для дома и дачи с доставкой от 30 минут",
+  "description_md": "Товары для дома и дачи с доставкой от 30 минут",
+  "description_html": "<p>Товары для дома и дачи с доставкой от 30 минут</p>",
+  "subcategories": [{
+    "id": "73C2399",
+    "name": "Инвентарь для уборки",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C9933",
+    "name": "Фольга, пленка и пакеты для завтраков",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9934",
+    "name": "Бумажные полотенца и салфетки",
+    "advert": null,
+    "products_count": 16
+  }, {
+    "id": "73C10001",
+    "name": "Мешки для мусора",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2406",
+    "name": "Кухонные аксессуары",
+    "advert": null,
+    "products_count": 92
+  }, {
+    "id": "73C9943",
+    "name": "Посуда для готовки",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C9936",
+    "name": "Посуда для сервировки",
+    "advert": null,
+    "products_count": 24
+  }, {
+    "id": "73C9937",
+    "name": "Контейнеры для еды",
+    "advert": null,
+    "products_count": 18
+  }, {
+    "id": "73C2409",
+    "name": "Батарейки",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9938",
+    "name": "Лампочки",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2411",
+    "name": "Спички, зажигалки",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9939",
+    "name": "Уход за одеждой и обувью",
+    "advert": null,
+    "products_count": 13
+  }, {
+    "id": "73C9941",
+    "name": "Для ремонта",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9942",
+    "name": "Декор для дома и цветы",
+    "advert": null,
+    "products_count": 8
+  }, {
+    "id": "73C9948",
+    "name": "Текстиль для дома",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9940",
+    "name": "Всё для праздников",
+    "advert": null,
+    "products_count": 23
+  }, {
+    "id": "73C9935",
+    "name": "Средства от насекомых",
+    "advert": null,
+    "products_count": 12
+  }, {
+    "id": "73C2410",
+    "name": "Для отдыха на природе",
+    "advert": null,
+    "products_count": 30
+  }, {
+    "id": "73C2403",
+    "name": "Для сада и огорода",
+    "advert": null,
+    "products_count": 11
+  }, {
+    "id": "73C2414",
+    "name": "Книги, газеты и журналы",
+    "advert": null,
+    "products_count": 60
+  }, {
+    "id": "73C9945",
+    "name": "Пакеты для покупок",
+    "advert": null,
+    "products_count": 5
+  }, {
+    "id": "73C9963",
+    "name": "Товары для ухода за автомобилем",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9946",
+    "name": "Аксессуары и украшения",
+    "advert": null,
+    "products_count": 4
+  }, {
+    "id": "73C6626",
+    "name": "Аксессуары для ванной комнаты",
+    "advert": null,
+    "products_count": 6
+  }, {
+    "id": "73C2415",
+    "name": "Товары для спорта",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9952",
+    "name": "Новогодний декор",
+    "advert": null,
+    "products_count": 3
+  }]
+}, {
+  "id": "73C9953",
+  "name": "Аптечка",
+  "advert": null,
+  "products_count": 17,
+  "image_link": "https://photos.okolo.app/category/73C9953-icon-fivedelivery/345x345.png",
+  "gradient_start": "#F4EFE4",
+  "gradient_end": "#F4EFE4",
+  "title_color": "#000000",
+  "description": null,
+  "description_md": null,
+  "description_html": null,
+  "subcategories": [{
+    "id": "73C9954",
+    "name": "Диагностические тесты",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C9955",
+    "name": "Презервативы и гели",
+    "advert": null,
+    "products_count": 9
+  }, {
+    "id": "73C9956",
+    "name": "Пластыри",
+    "advert": null,
+    "products_count": 2
+  }, {
+    "id": "73C9957",
+    "name": "Кремы",
+    "advert": null,
+    "products_count": 3
+  }, {
+    "id": "73C9959",
+    "name": "Гигиенические помады",
+    "advert": null,
+    "products_count": 1
+  }, {
+    "id": "73C12099",
+    "name": "Витамины, БАДы",
+    "advert": null,
+    "products_count": 1
+  }]
+}]

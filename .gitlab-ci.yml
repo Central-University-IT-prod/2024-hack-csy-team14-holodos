@@ -1,0 +1,18 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  SPRING_BOOT_MAIN_CLASS: "ru.isntrui.holodos.HolodosApplication"
+  DOCKER_IMAGE: "holodos"
+  DOCKER_COMPOSE_FILE: "docker-compose.yml"
+
+build:
+  stage: build
+  image: gradle:jdk21  # Using Gradle with JDK 21
+  script:
+    - gradle clean build -x test --warning-mode all
+  artifacts:
+    paths:
+      - build/libs/*.jar
